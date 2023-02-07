@@ -1,0 +1,2 @@
+Manager Scripts
+ie: "CameraManager", "ItemManager", "DiffucultyManager", etc.
